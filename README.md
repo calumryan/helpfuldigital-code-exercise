@@ -12,7 +12,7 @@ Instructions for running the code test locally and as a deployment.
 ## Project setup
 Clone this repo. Navigate to the repository folder if required, then run ```npm install``` from your command line or terminal. This will install the required dependencies to compile the code locally.
 
-VueJs and TailwindCSS are used for this exercise as they provides a quick and efficient way to prototype the rendering of items in the provided JSON file.
+VueJs and TailwindCSS are used for this exercise as I'm familiar with them and they provide a quick and efficient way to prototype the rendering of items in the provided JSON file.
 
 Additionally you can view the compiled page on my website at [calumryan.com/code/helpfuldigital-excercise](https://calumryan.com/code/helpfuldigital-excercise).
 
