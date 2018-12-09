@@ -14,7 +14,7 @@ Clone this repo. Navigate to the repository folder if required, then run ```npm 
 
 VueJs and TailwindCSS are used for this exercise as I'm familiar with them and they provide a quick and efficient way to prototype the rendering of items in the provided JSON file.
 
-Additionally you can view the compiled page on my website at [calumryan.com/code/helpfuldigital-excercise](https://calumryan.com/code/helpfuldigital-excercise).
+Additionally you can view the compiled page on my website at [calumryan.com/code/helpfuldigital-exercise](https://calumryan.com/code/helpfuldigital-exercise).
 
 ## Compile and hot-reload for development
 With everything installed now run ```npm run serve```. The details of the localhost and network URLs should display in the terminal/command line.
